@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metadataSupplement>
+    <tables>
+        <table dataLocale="en_US" dataSources="ds11" resourceIdentifier="'cas-shared-default','CASUSER','GITEX_DATA','en_US'" tableModifiedTimeStamp="2024-10-13T10:24:29.616Z">
+            <columns>
+                <column dataType="double" format="TIME8" label="Time" xref="Time"/>
+                <column dataType="double" format="BEST12." label="Flood Depth (cm) Actual" xref="Flood Depth (cm) Actual"/>
+                <column dataType="double" format="BEST12." label="Flood Depth (cm) Predicted" xref="Flood Depth (cm) Predicted"/>
+                <column dataType="double" format="BEST12." label="Rain Accumulation (mm)" xref="Rain Accumulation (mm)"/>
+                <column dataType="double" format="BEST12." label="Water Above Elevation (m)" xref="Water Above Elevation (m)"/>
+                <column dataType="string" label="Area" xref="Area"/>
+            </columns>
+        </table>
+    </tables>
+    <version>2</version>
+</metadataSupplement>
